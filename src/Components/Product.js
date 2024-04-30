@@ -26,7 +26,7 @@ function Product() {
 //  const result = await data.json();
 //  getProduct(result);
 //   })();
-);
+,[]);
 if(status==='loading'){
   return(
     <p>Loading........ </p>
